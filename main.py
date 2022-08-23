@@ -1,7 +1,7 @@
 import telebot # импортируем стандартную библиотеку telebot
 import random # тмпортируем стандартную библиотеку random
 
-token = "5494317597:AAG7ZgY_zQ-qR7ZDGpnK_vqsKXPG4GXiLeA" # создаём переменную, в которую вкладываем токен из Telegram
+token = "Здесь будет ваш ключ" # создаём переменную, в которую вкладываем токен из Telegram
 bot = telebot.TeleBot(token) # вызываем в переменную bot готовые функции из библиотеки telebot
 HELP = """
 /help - вывести список доступных команд
